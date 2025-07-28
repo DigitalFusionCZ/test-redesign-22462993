@@ -1,0 +1,20 @@
+{
+  "generated_at": "2025-07-28T17:10:25.041Z",
+  "total_images": 2,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/project-cottage-facade-renovation-after.jpg",
+      "file_name": "project-cottage-facade-renovation-after.jpg",
+      "description": "A renovated cottage structure with a dark upper facade and white lower facade, situated in a forest clearing. Context: Found in the 'Our Latest Projects' section, specifically for the 'Omlazení chalupy u Tanvaldu' project. It showcases the completed exterior work. The image has decent lighting and provides a good view of the building and its improved state.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/project-family-house-renovation-after.jpg",
+      "file_name": "project-family-house-renovation-after.jpg",
+      "description": "A fully renovated two-story family house with a new dark grey tile roof and light-colored facade, seen from street level with cars parked nearby. Context: Featured as a completed project, likely 'Kompletní rekonstrukce rodinného domu'. It demonstrates exterior renovation work, including roofing and facade. The image is clear and shows the house in good condition.",
+      "size_bytes": 558411
+    }
+  ]
+}
